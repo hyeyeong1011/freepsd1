@@ -179,7 +179,7 @@ input{outline: none;}
     font-size: 11px;
 }
 .main .container .bottom .notice ul li{
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
 } 
 .main .container .bottom .notice .bar{
     width: 140px;
